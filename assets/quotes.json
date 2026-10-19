@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "quote": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "genre": "Motivation"
+  },
+  {
+    "id": "2",
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": null, 
+    "genre": "Inspiration"
+  }
+]
